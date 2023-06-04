@@ -1,13 +1,13 @@
 {
-"Title": "☆  بروزرسانی جدید  ☆",
-"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
-"Link": "tg://join?invite=y_kZERU2bvRjNzJk",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "دیگه پول به فیلترشکن نده !",
+"Description": "* خیلی زود برو تو این کانال و فیلترشکنای پولی و رایگان دانلود کن 😂\nمخصوصا Tunnel هاش اوووف 😍",
+"Link": "tg://join?invite=nFha2Y1GGM0xZmI0",
+"ColorWave": "#12E2F3",
+"Color": "#12E2F3",
+"ColorWaveTwo": "#12A8F3",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -16,9 +16,9 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
 "MessageID": "1",
-"ShowTime": "999",
-"Button": "  دریافت نسخه جدید  ",
-"ButtonCancell": " بعدا ",
-"Closure": "false",
-"Show": "off"
+"ShowTime": "9999",
+"Button": " عضویت در کانال vip ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
 }
